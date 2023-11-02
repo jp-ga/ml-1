@@ -1,0 +1,13 @@
+name: ml-1
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - jupyterlab
+  - pytorch
+  - scikit-learn
